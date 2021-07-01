@@ -1,6 +1,6 @@
 # Snake Game By Kashvi [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-![Project Image](images\welcome_text.png)
+![project image](https://github.com/Kashvi2007/SnakeGameByKashvi/blob/main/images/welcome_text.png?raw=true)
 
 
 
