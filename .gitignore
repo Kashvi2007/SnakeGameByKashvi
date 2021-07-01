@@ -1,0 +1,5 @@
+ __pycache__/
+build/
+hiscore.txt
+snake.spec
+requirements.txt
